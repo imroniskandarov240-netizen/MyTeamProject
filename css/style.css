@@ -1,0 +1,547 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  width: 100%;
+  height: 100px;
+  background-color: #014e56;
+}
+.navbar-logo {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  position: absolute;
+  color: white;
+  margin-left: 100px;
+}
+.navbar-a1 {
+  position: absolute;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  color: white;
+  margin-left: 300px;
+  margin-top: 35px;
+  transition: all 0.3s linear;
+}
+.navbar-a2 {
+  position: absolute;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  color: white;
+  margin-left: 380px;
+  margin-top: 35px;
+  transition: all 0.3s linear;
+}
+.navbar-btn {
+  background-color: #014e56;
+  color: white;
+  border-color: white;
+  border-radius: 30px;
+  width: 153px;
+  height: 38px;
+  left: 1122px;
+  top: 73px;
+  margin-left: 800px;
+  margin-top: 25px;
+  transition: all 0.4s linear;
+}
+
+.navbar-a1:hover {
+  color: #c97576;
+}
+
+.navbar-a2:hover {
+  color: #c97576;
+}
+
+.navbar-btn:hover {
+  background-color: white;
+  color: #014e56;
+}
+
+.intro {
+  background-color: #014e56;
+  width: 100%;
+}
+.intro-img1 {
+  margin-top: 50px;
+}
+.intro-h2-1 {
+  position: absolute;
+  width: 532px;
+  height: 200px;
+  left: 165px;
+  top: 250px;
+  margin-top: -100px;
+  font-family: "Livvic";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 100px;
+  line-height: 100px;
+  color: #FFFFFF;
+}
+.intro-span1 {
+  color: #f67e7e;
+}
+.intro-p1 {
+  font-family: "Livvic";
+  white-space-collapse: break-spaces;
+  color: white;
+  margin-left: 750px;
+  margin-top: -120px;
+}
+.intro-img2 {
+  margin-top: 100px;
+  margin-left: 650px;
+}
+
+.build {
+  position: absolute;
+  width: 100%;
+  background-color: #012f34;
+}
+.build-hr1 {
+  position: absolute;
+  width: 60px;
+  height: 3px;
+  background-color: #f67e7e;
+  border: none;
+  margin-top: 90px;
+  margin-left: 100px;
+}
+.build-h2-2 {
+  font-family: "Livvic";
+  white-space-collapse: break-spaces;
+  color: white;
+  margin-top: 120px;
+  margin-left: 100px;
+  font-size: 30px;
+}
+.build-man {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: -150px;
+}
+.build-setting {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: -50px;
+}
+.build-finance {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 50px;
+}
+.build-h2-3 {
+  font-family: "Livvic";
+  color: #F67E7E;
+  margin-left: 600px;
+  margin-top: -150px;
+}
+.build-p2 {
+  color: white;
+  white-space-collapse: break-spaces;
+  margin-left: 600px;
+  margin-top: 10px;
+}
+.build-h2-4 {
+  color: #F67E7E;
+  margin-left: 600px;
+  margin-top: 10px;
+}
+.build-h2-5 {
+  white-space-collapse: break-spaces;
+  color: white;
+  margin-left: 600px;
+  margin-top: 10px;
+}
+.build-h2-6 {
+  white-space-collapse: break-spaces;
+  color: #F67E7E;
+  margin-left: 600px;
+  margin-top: 20px;
+}
+.build-p3 {
+  white-space-collapse: break-spaces;
+  color: white;
+  margin-left: 600px;
+  margin-top: 10px;
+}
+.build-img4 {
+  margin-left: 936px;
+  margin-top: -200px;
+}
+
+.delivery {
+  width: 100% x;
+  height: 505px;
+  background-color: #004047;
+  margin-top: 329px;
+}
+.delivery-h2-7 {
+  position: absolute;
+  margin-top: 130px;
+  margin-left: 300px;
+  font-family: "Livvic";
+  white-space-collapse: break-spaces;
+  color: white;
+}
+.delivery-p4 {
+  font-family: "Livvic";
+  position: absolute;
+  color: white;
+  white-space-collapse: break-spaces;
+  margin-left: 100px;
+  margin-top: 200px;
+}
+.delivery-p5 {
+  font-family: "Livvic";
+  position: absolute;
+  color: white;
+  white-space-collapse: break-spaces;
+  margin-top: 200px;
+  margin-left: 400px;
+}
+.delivery-p6 {
+  position: absolute;
+  font-family: "Livvic";
+  white-space-collapse: break-spaces;
+  color: white;
+  margin-top: 200px;
+  margin-left: 700px;
+}
+.delivery-woman {
+  position: absolute;
+  font-family: "Livvic";
+  margin-left: 150px;
+  margin-top: 330px;
+  color: #79c8c7;
+}
+.delivery-retrowoman {
+  font-family: "Livvic";
+  position: absolute;
+  margin-left: 450px;
+  margin-top: 330px;
+  color: #79c8c7;
+}
+.delivery-oldman {
+  font-family: "Livvic";
+  position: absolute;
+  color: #79c8c7;
+  margin-top: 330px;
+  margin-left: 750px;
+}
+.delivery-imgwoman {
+  width: 62px;
+  height: 62px;
+  position: absolute;
+  margin-top: 370px;
+  margin-left: 170px;
+}
+.delivery-oldwoman {
+  position: absolute;
+  margin-top: 370px;
+  margin-left: 480px;
+}
+.delivery-amaki {
+  position: absolute;
+  margin-top: 370px;
+  margin-left: 780px;
+}
+.delivery-img100 {
+  position: absolute;
+  margin-left: 836px;
+  margin-top: 400px;
+}
+
+.span5 {
+  margin-top: 50px;
+  color: #79c8c7;
+}
+
+.ready {
+  width: 100%;
+  height: 196px;
+  background-color: #f67e7e;
+}
+.ready-figure {
+  margin-top: 52px;
+}
+.ready-h2-7 {
+  font-size: 40px;
+  font-family: "Livvic";
+  margin-left: 270px;
+  margin-top: -100px;
+  color: #012f34;
+}
+.ready-btn1 {
+  position: absolute;
+  width: 153px;
+  height: 48px;
+  background-color: #f67e7e;
+  color: black;
+  font-family: "Livvic";
+  border-color: #012f34;
+  border-radius: 20px;
+  border-width: 3px;
+  margin-left: 800px;
+  margin-top: -40px;
+  transition: all 0.4s linear;
+}
+
+.ready-btn1:hover {
+  background-color: #012f34;
+  color: white;
+}
+
+.footer {
+  width: 100%;
+  height: 196px;
+  background-color: #002529;
+}
+.footer-h2-8 {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 150px;
+  color: white;
+  font-family: "Livvic";
+  font-size: 40px;
+}
+.footer-a1 {
+  position: absolute;
+  font-family: "Livvic";
+  text-decoration: none;
+  margin-left: 150px;
+  margin-top: 120px;
+  color: white;
+  transition: all 0.3s linear;
+}
+.footer-a2 {
+  position: absolute;
+  font-family: "Livvic";
+  text-decoration: none;
+  margin-left: 240px;
+  margin-top: 120px;
+  color: white;
+  transition: all 0.3s linear;
+}
+.footer-p10 {
+  position: absolute;
+  font-family: "Livvic";
+  white-space-collapse: break-spaces;
+  color: gray;
+  margin-left: 400px;
+  margin-top: 50px;
+}
+
+.normwords {
+  font-family: "Livvic";
+  position: absolute;
+  color: gray;
+  margin-top: 120px;
+  margin-left: 700px;
+}
+
+.icons {
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 850px;
+}
+
+.footer-a1:hover {
+  color: #c97576;
+}
+
+.footer-a2:hover {
+  color: #c97576;
+}
+
+.aboutintro {
+  width: 100%;
+  height: 317px;
+  background-color: #014E56;
+}
+.aboutintro-h2-10 {
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 100px;
+  font-family: "Livvic";
+  font-size: 50px;
+  color: white;
+}
+.aboutintro-p11 {
+  position: absolute;
+  font-family: "Livvic";
+  white-space-collapse: break-spaces;
+  color: white;
+  margin-left: 350px;
+  margin-top: 130px;
+}
+
+.oval{
+  position: absolute;
+}
+
+
+
+
+.meets {
+  position: absolute;
+  width: 100%;
+  height: 802px;
+  background-color: #004047;
+
+}
+
+.h2-15{
+position: absolute;
+font-family: 'Livvic';
+color: white;
+font-size: 30px;
+margin-left: 420px;
+margin-top: 100px;
+}
+
+.div1{
+  width: 250px;
+  height: 233px;
+  background-color: #012f34;
+}
+
+.div2{
+  width: 250px;
+  height: 233px;
+  background-color: #012f34;
+}
+
+.div3{
+  width: 250px;
+  height: 233px;
+  background-color: #012f34;
+}
+
+.card{
+  margin-left: 80px;
+  position: absolute;
+  margin-top: 200px;
+  display: flex;
+justify-content: space-evenly;
+gap: 66px;
+}
+
+.card1{
+position: absolute;
+display: flex;
+justify-content: space-evenly;
+gap: 66px;
+margin-left: 80px;
+margin-top: 500px;
+}
+
+
+
+.div4{
+  width: 250px;
+  height: 233px;
+  background-color: #012f34;
+}
+
+.div5{
+  width: 250px;
+  height: 233px;
+  background-color: #012f34;
+}
+
+.div6{
+  width: 250px;
+  height: 233px;
+  background-color: #012f34;
+}
+
+.nadoela{
+  margin-top: 30px;
+  margin-left: 70px;
+}
+
+.h4-1{
+  font-family: 'Livvic';
+  color: #79c8c7;
+  margin-left: 70px;
+  margin-top: 15px;
+}
+
+.p10{
+  font-family: 'Livvic';
+  color: white;
+  margin-left: 60px;
+  margin-top: 15px;
+}
+
+.plusoval{
+  margin-left: 85px;
+  margin-top: 10px;
+}
+
+.h4-2{
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 80px;
+  color:  #79c8c7;
+  font-family: 'Livvic';
+}
+
+.p16{
+  color: white;
+  font-family: 'Livvic';
+  white-space-collapse: break-spaces;
+  margin-top: 55px;
+  margin-left: 10px;
+}
+
+.plusoval1{
+  position: absolute;
+  margin-left: 90px;
+  margin-top: 95px;
+}
+
+.group16{
+  margin-left: 85px;
+  margin-top: 40px;
+}
+
+.client{
+  width: 100%;
+  height: 300px;
+  background-color: #002529;
+  margin-top: 800px;
+}
+
+.h2-16{
+  font-family: 'Livvic';
+  font-size: 35px;
+  margin-left: 400px;
+  margin-top: -150px;
+  color: white;
+}
+
+.icon{
+  width: 800px;
+  margin-top: 100px;
+  margin-left: 120px;
+}
+
+
+
+
+
+
+
+
+

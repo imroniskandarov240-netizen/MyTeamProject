@@ -1,0 +1,45 @@
+.intro{
+    background-color:#014e56 ;
+    width: 100%;
+    
+    
+
+    &-img1{
+        margin-top: 50px;
+    }
+
+    &-h2-1{
+
+position: absolute;
+width: 532px;
+height: 200px;
+left: 165px;
+top: 250px;
+margin-top: -100px;
+font-family: 'Livvic';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 100px;
+color: #FFFFFF;;
+
+    }
+
+    &-span1{
+        color: #f67e7e;
+    }
+
+    &-p1{
+        font-family:'Livvic';
+        white-space-collapse: break-spaces;
+        color: white;
+        margin-left: 750px;
+        margin-top: -120px;
+    }
+
+    &-img2{
+        margin-top: 100px;
+        margin-left: 650px;
+        
+    }
+}

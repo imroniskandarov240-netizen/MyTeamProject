@@ -1,0 +1,38 @@
+.ready{
+    width: 100%;
+    height: 196px;
+    background-color: #f67e7e;
+
+    &-figure{
+        margin-top: 52px;
+    }
+
+    &-h2-7{
+        font-size: 40px;
+        font-family: 'Livvic';
+        margin-left: 270px;
+        margin-top: -100px;
+        color: #012f34;
+    }
+
+    &-btn1{
+        position: absolute;
+   width: 153px;
+   height: 48px;
+background-color: #f67e7e;
+color: black;
+font-family: 'Livvic';
+border-color: #012f34;
+border-radius: 20px;
+border-width: 3px;
+margin-left: 800px;
+margin-top: -40px;
+transition: all 0.4s linear;
+    }
+}
+
+.ready-btn1:hover{
+    background-color: #012f34;
+    color: white;
+    
+}

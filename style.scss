@@ -1,0 +1,87 @@
+@import "./home-block/home-block";
+@import "./about-block/about-block"
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{   
+    width: 100%;
+    height: 100px;
+    background-color: #014e56;
+   
+
+    &-logo{
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+        position: absolute;
+        color: white;
+        margin-left: 100px;
+        
+    }
+
+
+    &-a1{
+        position: absolute;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-decoration: none;
+        color: white;
+        margin-left: 300px;
+        margin-top: 35px;
+        transition: all 0.3s linear;
+    }
+
+    &-a2{
+        position: absolute;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: white;
+    margin-left: 380px;
+    margin-top: 35px;
+    transition: all 0.3s linear;
+    }
+
+    &-btn{
+    background-color: #014e56;
+    color: white;
+    border-color: white;
+    border-radius: 30px;
+width: 153px;
+height: 38px;
+left: 1122px;
+top: 73px;
+margin-left: 800px;
+margin-top: 25px;
+transition: all 0.4s linear;
+    }
+
+    &-a3{
+          position: absolute;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: white;
+    margin-left: 380px;
+    margin-top: 35px;
+    transition: all 0.3s linear;
+           }
+    
+}
+
+.navbar-a1:hover{
+     color: #c97576;
+}
+
+.navbar-a2:hover{
+     color: #c97576;
+}
+
+.navbar-btn:hover{
+    background-color: white;
+    color:#014e56;
+}
+
+
+
