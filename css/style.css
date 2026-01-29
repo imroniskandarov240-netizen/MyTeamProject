@@ -788,8 +788,104 @@ transition: all 0.4s linear;
   color: white;
 }
 
+.contactbtn{
+  text-decoration: none;
+  color: white;
+  font-family: 'Livvic';
+  transition: all 0.3s linear;
+}
+
+.contactbtn:hover{
+  color: #002529;
+}
 
 
+.navbar-logo-a{
+  color: white;
+  text-decoration: none;
+  font-family: 'Livvic';
+  font-size: 40px;
+  margin-left: -20px;
+}
+
+.contact-a{
+  text-decoration: none;
+  color: black;
+transition: all 0.3s linear;
+}
+
+.contact-a:hover{
+  color: white;
+}
+
+
+
+
+
+
+
+.input-name{
+  width: 380px;
+  height: 50px;
+  font-size: 20px;
+  margin-left: 650px;
+  background-color:#014E56;
+  border: none;
+  border-color: #014E56;
+  color: #808080;
+}
+
+.input-email{
+  width: 380px;
+  height: 50px;
+  font-size: 20px;
+  margin-left: 650px;
+  background-color: #014E56;
+  border: none;
+  border-color: #014E56;
+  color: #808080;
+}
+
+.input-company{
+  width: 380px;
+  height: 50px;
+  font-size: 20px;
+  margin-left: 650px;
+  background-color: #014E56;
+  color: #808080;
+  border: none;
+}
+
+.input-title{
+  width: 380px;
+  height: 50px;
+  font-size: 20px;
+  margin-left: 650px;
+  background-color: #014E56;
+  color: #808080;
+  border: none;
+}
+
+.input-mesage{
+  width: 380px;
+  height: 50px;
+  font-size: 20px;
+  margin-left: 650px;
+  background-color: #014E56;
+  color: #808080;
+  border: none;
+}
+
+.submitwiki{
+  text-decoration: none;
+  color: #014E56;
+  transition: all 0.3s linear;
+}
+
+.submitwiki:hover{
+  color: white;
+
+}
 
 
 
