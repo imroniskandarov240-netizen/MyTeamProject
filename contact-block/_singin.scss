@@ -235,6 +235,68 @@ transition: all 0.4s linear;
 }
 
 
+.input-name{
+  width: 380px;
+  height: 50px;
+  font-size: 20px;
+  margin-left: 650px;
+  background-color:#014E56;
+  border: none;
+  border-color: #014E56;
+  color: #808080;
+}
+
+.input-email{
+  width: 380px;
+  height: 50px;
+  font-size: 20px;
+  margin-left: 650px;
+  background-color: #014E56;
+  border: none;
+  border-color: #014E56;
+  color: #808080;
+}
+
+.input-company{
+  width: 380px;
+  height: 50px;
+  font-size: 20px;
+  margin-left: 650px;
+  background-color: #014E56;
+  color: #808080;
+  border: none;
+}
+
+.input-title{
+  width: 380px;
+  height: 50px;
+  font-size: 20px;
+  margin-left: 650px;
+  background-color: #014E56;
+  color: #808080;
+  border: none;
+}
+
+.input-mesage{
+  width: 380px;
+  height: 50px;
+  font-size: 20px;
+  margin-left: 650px;
+  background-color: #014E56;
+  color: #808080;
+  border: none;
+}
+
+.submitwiki{
+  text-decoration: none;
+  color: #014E56;
+  transition: all 0.3s linear;
+}
+
+.submitwiki:hover{
+  color: white;
+
+}
 
 
 
